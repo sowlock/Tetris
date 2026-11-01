@@ -1,0 +1,4 @@
+out/
+*.class
+sources.txt
+.DS_Store
